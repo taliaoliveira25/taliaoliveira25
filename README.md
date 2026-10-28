@@ -1,71 +1,93 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF007F&height=150&text=Talia%20Oliveira&fontSize=60&animation=fadeIn&fontAlignY=55&fontColor=ffffff"/>
-</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF1493&center=true&vCenter=true&width=435&lines=Desenvolvedora+em+Formação;Apaixonada+por+Café+☕;Apaixonada+por+Gatos+🐾;Estudante+de+Sistemas+para+Internet" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=160&section=header&text=Talia%20Oliveira&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Estudante%20de%20Sistemas%20para%20Internet&descAlignY=60&descSize=16" width="100%" alt="Banner de Talia Oliveira"/>
 </p>
 
+🎓 Estudante de **Sistemas para Internet** no IFRS  
+💻 Desenvolvedora em formação, explorando o desenvolvimento de software  
+📍 Rio Grande do Sul, Brasil  
+☕ Café, código e gatos fazem parte da rotina!
 
 
----
+## 👩🏻‍💻 Sobre mim
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="25" height="25"/>  Sobre Mim
+Sou carioca vivendo no Rio Grande do Sul e estudante de **Sistemas para Internet no IFRS**. Tenho interesse em desenvolvimento de software, cibersegurança, segurança da informação e estou construindo minha trajetória na área de tecnologia por meio dos estudos e da prática.
 
-Sou carioca morando atualmente em terras gaúchas! No dia a dia, transformo canecas de café em linhas de código funcionais e interfaces intuitivas.
+Atualmente, estou aprofundando meus conhecimentos em programação, desenvolvimento de aplicações e ferramentas utilizadas no dia a dia de desenvolvimento.
 
-* 🎓 Graduanda em **Sistemas para Internet** no IFRS.
-* 🏫 Egressa do I.E.E. Professor Pedro Schneider (Pedrinho).
-* 📍 Baseada no Rio Grande do Sul, Brasil.
+Acredito que aprender a programar vai além de escrever código: envolve resolver problemas, testar soluções, documentar o que foi desenvolvido e buscar melhorias continuamente.
 
+- 🎓 Graduanda em Sistemas para Internet — IFRS.
+- 💡 Interessada em desenvolvimento de software e criação de aplicações.
+- 💡 Interessada em cibersegurança e segurança da informação.
+- 🛠️ Desenvolvendo conhecimentos por meio de estudos e projetos práticos.
+- 🌱 Sempre aprendendo e explorando novas tecnologias.
+- ☕ Entusiasta de café e apaixonada por gatos.
 
-> **Status atual:** ☕ Consumindo café e corrigindo bugs.
-> **Minha motivação:** "O código só está pronto depois que o gato dorme no teclado." 🐈‍⬛
+## 🛠️ Tecnologias e ferramentas
 
----
+Tecnologias com as quais estou estudando ou desenvolvendo conhecimentos:
 
-### 🛠️ Linguagens e Tecnologias
+### Linguagens de programação
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" width="45" title="Quarkus" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" width="45" title="Maven" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" title="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript,c" alt="Java, JavaScript e C"/>
 </p>
 
----
+### Desenvolvimento e banco de dados
 
-### 📊 Estatísticas
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,mongodb" alt="HTML, CSS e MongoDB"/>
+</p>
+
+### Ferramentas e ambiente de desenvolvimento
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,maven,quarkus" alt="Linux, Git, Maven e Quarkus"/>
+</p>
+
+## 📂 Projetos em destaque
+
+Quero utilizar este espaço para apresentar projetos que demonstrem minha evolução técnica, minha capacidade de resolver problemas e minha aplicação dos conhecimentos adquiridos nos estudos.
+
+<!-- Adicione aqui seus melhores repositórios, com links e descrições reais. -->
+
+**O que você encontrará nos meus projetos:**
+- Aplicações desenvolvidas durante os estudos.
+- Exercícios práticos de programação.
+- Experimentos com diferentes tecnologias.
+- Projetos pessoais para consolidar conhecimentos.
+- Projetos académicos. 
+
+> Meu objetivo é transformar o aprendizado em projetos funcionais, bem documentados e que possam ser explorados por outras pessoas.
+
+## 📊 GitHub em números
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=taliaoliveira25&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taliaoliveira25&theme=dracula&layout=donut&custom_title=Tecnologias&langs_count=7" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=taliaoliveira25&show_icons=true&theme=dracula&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Talia"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taliaoliveira25&layout=compact&theme=dracula&hide_border=true&langs_count=6&locale=pt-br" alt="Linguagens mais utilizadas nos repositórios de Talia"/>
+</p>
+
+*As estatísticas refletem a atividade pública dos repositórios e não representam, necessariamente, o nível de domínio de cada tecnologia.*
+
+## 🤝 Vamos nos conectar?
+
+Estou aberta a trocar conhecimentos, aprender com outras pessoas da área e conhecer oportunidades para continuar evoluindo profissionalmente.
+
+<p>
+  <a href="https://www.linkedin.com/in/talia-motta-de-oliveira-oliveira-911b83245/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-FF1493?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:talia.motta.oliveira@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Entre%20em%20contato-FF1493?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-### 📫 Vamos conversar?
-<p align="left">
-<a href="https://www.linkedin.com/in/talia-motta-de-oliveira-oliveira-911b83245/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:talia.motta.oliveira@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<p align="center">
+  <i>"Um passo de cada vez, um commit de cada vez. ☕🐈"</i>
 </p>
-
-<p align="right">
-  <img src="https://media1.tenor.com/m/rMxNr07CxSMAAAAC/cat-crazy-cat.gif"width="100px">
-</p>
-
----
-
----
 
 ### 🤝 Créditos e Inspirações
 Este perfil foi construído com ferramentas incríveis e inspirado por profissionais da comunidade. Deixo aqui meus agradecimentos: 
