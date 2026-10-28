@@ -69,8 +69,6 @@ Quero utilizar este espaço para apresentar projetos que demonstrem minha evolu�
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taliaoliveira25&layout=compact&theme=dracula&hide_border=true&langs_count=6&locale=pt-br" alt="Linguagens mais utilizadas nos repositórios de Talia"/>
 </p>
 
-*As estatísticas refletem a atividade pública dos repositórios e não representam, necessariamente, o nível de domínio de cada tecnologia.*
-
 ## 🤝 Vamos nos conectar?
 
 Estou aberta a trocar conhecimentos, aprender com outras pessoas da área e conhecer oportunidades para continuar evoluindo profissionalmente.
