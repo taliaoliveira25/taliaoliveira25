@@ -4,7 +4,8 @@
 </p>
 
 🎓 Estudante de **Sistemas para Internet** no IFRS  
-💻 Desenvolvedora em formação, explorando o desenvolvimento de software, cibersegurança e segurança da informação  
+💻 Desenvolvedora em formação, explorando o desenvolvimento de software, 
+cibersegurança e segurança da informação  
 📍 Rio Grande do Sul, Brasil  
 ☕ Café, código e gatos fazem parte da rotina!
 
